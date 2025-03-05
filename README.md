@@ -4,7 +4,7 @@ Sure! Here’s a humorous "README" for your project that plays off the idea of A
 
 # README.md
 
-## Welcome to the **Wine App** 🍷🍇
+## Welcome to the **Wine App**
 
 So, uh... you’ve found your way here. Congratulations? I don’t even know how this happened, but hey, it works (mostly).
 
